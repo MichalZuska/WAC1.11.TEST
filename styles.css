@@ -1,11 +1,27 @@
-.pozadi1 {
+
+.header {
   background-color: #00FFFF;
   display: flex;
+}
+.header h1 {
+text-align: center;
+flex: auto;
+}
+.body {
+background-color: #00FFFF;
+  display: flex;
+}
+.body img {
+  width: 50px;
 }
 
 .shopheader {
 background-color: #7FFF00;
 display: flex;
+}
+.zbozi {
+display: flex;
+background-color: #7FFF00;
 }
 
 .contactheader {
