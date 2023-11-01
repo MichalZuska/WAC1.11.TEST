@@ -1,0 +1,14 @@
+.pozadi1 {
+  background-color: #00FFFF;
+  display: flex;
+}
+
+.shopheader {
+background-color: #7FFF00;
+display: flex;
+}
+
+.contactheader {
+background-color: #7FFFD4;
+display: flex;
+}
